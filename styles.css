@@ -1,0 +1,44 @@
+@import './root.css';
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+
+body {
+    margin: 0px;
+    padding: 0px;
+    top: 0 !important;
+    font-family: 'Pixelify Sans';
+    background-image: url('/images/bgimg.jpg');
+}
+.timeline {
+background-image: url('http://dl7.glitter-graphics.net/pub/672/672630e36kau25pl.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+.memories {
+background-image: url('http://dl5.glitter-graphics.net/pub/2737/2737165nj51irfccb.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+a {
+    pointer-events: none;
+    cursor: default;
+}
+
+
+.button-moving {
+    background-image: url('http://dl6.glitter-graphics.net/pub/2017/2017316nx6o1zl9qj.jpg');
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+
+/*
+.button-moving {
+
+background-image: url('http://dl9.glitter-graphics.net/pub/1418/1418029hnw29z3wxe.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+
+}
+*/
