@@ -7,7 +7,7 @@ body {
     padding: 0px;
     top: 0 !important;
     font-family: 'Pixelify Sans';
-    background-image: url('/images/bgimg.jpg');
+    background-image: url('images/bgimg.jpg');
 }
 .timeline {
 background-image: url('http://dl7.glitter-graphics.net/pub/672/672630e36kau25pl.gif');
