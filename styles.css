@@ -8,6 +8,8 @@ body {
     top: 0 !important;
     font-family: 'Pixelify Sans';
     background-image: url('images/bgimg.jpg');
+
+
 }
 .timeline {
 background-image: url('http://dl7.glitter-graphics.net/pub/672/672630e36kau25pl.gif');
@@ -42,3 +44,10 @@ background-repeat: repeat;
 
 }
 */
+
+
+.wheel{
+background-image: url('http://dl7.glitter-graphics.net/pub/676/676657yhxq5o5bjd.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+}
